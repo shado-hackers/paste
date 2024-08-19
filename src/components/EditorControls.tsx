@@ -122,7 +122,7 @@ export default function EditorControls({
         <Button
           className="optional"
           as="a"
-          href="https://github.com/lucko/paste#readme"
+          href="https://t.me/shado_hackers"
           target="_blank"
           rel="noreferrer"
         >
